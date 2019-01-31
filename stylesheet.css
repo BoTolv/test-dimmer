@@ -10,8 +10,8 @@ body {
 
 .dimmer {
   position: absolute;
-  top: 30%;
-  left: 30%;
+  top: 50%;
+  left: 50%;
   margin: -150px;
   width: 300px;
   height: 300px;
